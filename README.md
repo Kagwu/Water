@@ -1,2 +1,3 @@
 #Water is really necessary.
-Make you are drinking enough.
+Make sure you are drinking enough.<br>
+Stay Safe & Health
